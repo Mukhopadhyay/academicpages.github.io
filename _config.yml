@@ -11,7 +11,7 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Portfolio"
 description              : &description "Portfolio of Pranesh Mukhopadhyay"
-url                      : "" # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://Mukhopadhyay.github.io" # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Mukhopadhyay/Mukhopadhyay.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/praneshmukhopadhyay/"
+  linkedin         : "praneshmukhopadhyay"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

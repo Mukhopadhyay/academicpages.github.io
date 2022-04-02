@@ -3,9 +3,9 @@ permalink: /datasets/
 title: "Datasets"
 excerpt: "Datasets"
 author_profile: true
-redirect_from: 
-  - /dataset/
-  - /dataset.html
+# redirect_from: 
+#   - /dataset/
+#   - /dataset.html
 ---
 
 ## YouTuber's Saying Things
