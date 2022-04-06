@@ -8,10 +8,26 @@ author_profile: true
 #   - /dataset.html
 ---
 
-## YouTuber's Saying Things
+## [YouTuber's Saying Things](https://github.com/Mukhopadhyay/YouTubers-saying-things)
 
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+### Find it on:
 
-## Amazon Reviews
+<a href='https://www.kaggle.com/praneshmukhopadhyay/youtubers-saying-things' target='_blank'><img src='https://www.kaggle.com/static/images/site-logo.svg' width=100></a>
 
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+<!-- [<img src='https://www.kaggle.com/static/images/site-logo.svg' alt='kaggle' height='40'>](https://www.kaggle.com/praneshmukhopadhyay/youtubers-saying-things) -->
+
+Founded and maintained since 2005, YouTube is one of the internet's biggest platforms. With their number of videos watched per day exceeding **1 Billion**, it's easy for any user to differentiate genres just by glancing at the thumbnail and the Title. My inspiration to make this dataset was to try and answer the question of _whether it is equally easy for a computer to do_.
+
+This dataset contains subtitles from over `91` different YouTubers, ranging from all different kinds of categories. The data were collected and cleaned (as much as necessary) by me. Currently, the dataset contains `2515` unique videos and their subtitles. There are `11` columns in the dataset.
+
+---
+
+## [Amazon Question and Answer Dataset](https://github.com/Mukhopadhyay/Amazon_QnA_Dataset)
+### Find it on:
+
+<a href='https://www.kaggle.com/praneshmukhopadhyay/amazon-questionanswer-dataset' target='_blank'><img src='https://www.kaggle.com/static/images/site-logo.png' width=100></a>
+
+This dataset contains Question and Answer data from Amazon, totaling around 1.4 million answered questions. The data were collected and made available by [Prof. Julian McAuley](http://cseweb.ucsd.edu/~jmcauley/) of [UCSD](https://ucsd.edu/) (University of San Diego). 
+
+**Acknowledgements**
+This data was acquired from Prof. Julian's website. Different categories of data were present in independent archive files (each question being a separate `JSON` file in the archive). I joined them and added the attribute `Category` for ease of use. Please go through the ICDM paper, in particular, it goes into great detail on the potential of this dataset. That was one of my major inspirations for creating this dataset.
