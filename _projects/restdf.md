@@ -4,6 +4,12 @@ excerpt: "Create a simple API from a DataFrame, with built-in SwaggerUI support.
 collection: projects
 ---
 
+<style>
+    .highlight {
+        font-size: 1em !important;
+    }
+</style>
+
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=for-the-badge&logo=appveyor)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.0.x/)
 
