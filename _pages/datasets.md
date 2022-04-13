@@ -2,10 +2,25 @@
 permalink: /datasets/
 title: "Datasets"
 excerpt: "Datasets"
+layout: "splash"
 author_profile: true
 # redirect_from: 
 #   - /dataset/
 #   - /dataset.html
+---
+
+## [YouTube Thumbnail Dataset](https://github.com/Mukhopadhyay/YouTube-thumbnail-dataset)
+
+### Find it on:
+
+<a href='https://www.kaggle.com/datasets/praneshmukhopadhyay/youtube-thumbnail-dataset' target='_blank'><img src='https://www.kaggle.com/static/images/site-logo.svg' width=70></a> <a href='https://github.com/Mukhopadhyay/YouTube-thumbnail-dataset' target='_blank'><img src='https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png' width=70></a>
+
+<!-- [<img src='https://www.kaggle.com/static/images/site-logo.svg' alt='kaggle' height='40'>](https://www.kaggle.com/praneshmukhopadhyay/youtubers-saying-things) -->
+
+The most versatile dataset of YouTube thumbnails. This dataset goes hand in hand with [YouTuber's Saying Things](https://www.kaggle.com/praneshmukhopadhyay/youtubers-saying-things) dataset. Same set of video ids were used to generate this dataset, and I will be updating both at once.
+
+Now, obviously not all videos have a set thumbnail. In those cases, YouTube assigns a random frame as the thumbnail, Only for those video ids, we don't have the images.
+
 ---
 
 ## [YouTuber's Saying Things](https://github.com/Mukhopadhyay/YouTubers-saying-things)

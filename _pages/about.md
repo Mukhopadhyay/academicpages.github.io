@@ -3,6 +3,7 @@ permalink: /
 title: "Pranesh Mukhopadhyay"
 excerpt: "About me"
 author_profile: true
+# layout: "splash"
 redirect_from: 
   - /about/
   - /about.html
